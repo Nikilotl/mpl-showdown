@@ -1,0 +1,17 @@
+I. Bash öffnen
+II. Ordner Auswählen
+Am PC: 
+cd /d/pCloud/pokemon-showdown
+Am Laptop:
+
+III. Änderungen betrachten
+git Status
+
+IV Neue und geänbderte Dateien auswählen
+git add .
+
+V Commit erstellen
+git commit -m "Beschreibung meiner Änderungen"
+
+V. Commit pushen
+git push
